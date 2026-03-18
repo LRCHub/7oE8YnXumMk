@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "V",
   "base_artist": "HIMEHINA",
-  "createdAt": "2025-12-13T11:23:00.859552Z",
+  "createdAt": "2026-03-18T07:10:40.885548Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,60 @@
       "artist": "HIMEHINA",
       "has_synced": false,
       "path": "select/pl_01_V_HIMEHINA.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "V",
+      "artist": "HIMEHINA",
+      "has_synced": true,
+      "path": "select/localdb_01_V_HIMEHINA.lrc",
+      "repo_name": "qm1VHqb5jjM"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "V",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/localdb_02_V_HIMEHINA.txt",
+      "repo_name": "7oE8YnXumMk"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "V",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/localdb_03_V_HIMEHINA.txt",
+      "repo_name": "DlvdVRnlhVo"
+    },
+    {
+      "id": "localdb_4",
+      "source": "localdb",
+      "title": "V",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/localdb_04_V_HIMEHINA.txt",
+      "repo_name": "VADgVRvoqwg"
+    },
+    {
+      "id": "localdb_5",
+      "source": "localdb",
+      "title": "V",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/localdb_05_V_HIMEHINA.txt",
+      "repo_name": "Z9Io37vU_dY"
+    },
+    {
+      "id": "localdb_6",
+      "source": "localdb",
+      "title": "V",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/localdb_06_V_HIMEHINA.txt",
+      "repo_name": "n8JeG5VBEv8"
     }
   ]
 }
