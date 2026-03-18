@@ -1,77 +1,36 @@
 # HIMEHINA – V
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-VIRTUAL Blah Blah Blah Blah? I'm a V.
-VIRTUAL Blah Blah Blah Blah? I'm a V.
-VIRTUAL Blah Blah Blah Blah?
-I'm a Vだ La Vida な Diva.
-Love That Blah Blah Blah.
-たかだか生裸の魂遁 さわらば可愛いの混沌
-高天ヶ原からほら
-「堕としてあげる」
-Hi, そうメンヘラでも面がキュートならメンキラー
-とか貼られたレッテル逝ってるメンタルは
-最強スマイルで転がしてけファンダム
-誤魔化してる傷心性根
-晒されたら引退
-にゃんてな
-I am a V. I'm a V. I'm a 泡々よ
-I am La Vida な Diva 淫らは嫌よ
-夢見てる少年A 夢見てる少女A
-VならVidaは甘々甘々?No!!
-ちょん切る我利我利妄想
-笑わせんな 我がセンター
-誰よりも客寄せのパンダ
-ワレハナンダ?
-まるで膿んだ
-自己愛性生者
-Am I V? Am I C?
-洗いざらい 甘い汁 攫いに
-我愛你, So Love Me.
-おでましHey, モンスター
-Ahh...My Name is Blah Blah.
-愛でられたら墓までLoveだ
-I'm a Vだ Not a Avatar.
-心ん中はSmooth Like Butter.
-Touch me したいならほら
-￥＄Catch meでハイ￥
-メシアかルシファか分からないが WOW
-我心叫ぶ一つのLifer
-生きる姿や魂を今
-複製にして愛をバラバラに
-生まれた時の喜びは忘消にさよならでいいの?
-ダメネ
-Wacha Wacha
-Wacha は Mecha Mecha?
-Wacha Wacha
-Wacha は Mecha Mecha?
-楽観な六感ね あらら交換で共感ね 怪体な正体ね
-あら、Wacha は Mecha Mecha?
-楽観な六感ね あらら交換で共感ね 一巻の終わりだね
-Umm...にゃんてな
-I am a V. I'm a V. I'm a 泡々よ
-I am La Vida な Diva 淫らは嫌よ
-夢見てる少年A 夢見てる少女A
-VならVidaは甘々甘々?No!!
-教養さ、子供の頃言われたもんだ
-あのヒーローショーの人形の背中にゃ
-チャックは付いてないから開くな
-バーチャルだヒューマンだ四の五の言うが
-存在はOne＆Oneだ
-吠えても惚れても死の後はバラバラな
-VIRTUAL Blah Blah. VIRTUAL Blah Blah.
-VIRTUAL Blah Blah. VIRTUAL Blah Blah. Blah Blah
-Blah Blah!!
-VIRTUAL Blah Blah. VIRTUAL Blah Blah. Ayn..
-VIRTUAL Blah Blah Blah...
-Are you ready for...
-惚れたら死ぬぞ?
-VIRTUAL Blah Blah. VIRTUAL Blah Blah.
-VIRTUAL Blah Blah. VIRTUAL Blah Blah.
-VIRTUAL Blah Blah. VIRTUAL Blah Blah. Wacha
-Wacha!!
-VIRTUAL Blah Blah
-Umm, I'm a V.
+```lrc
+[01:03.82] 青い時間 さよなら告げる
+[01:08.12] 雨避けの傘は僕を抛り捨てた
+[01:12.24] 訪れてた 夏にも気付かずに
+[01:16.28] 此処は何処だ 僕は誰だと 吼える
+[01:24.28] 
+[01:28.73] 終わりが無い、と 行き先を殺す
+[01:32.90] 分かるはずが無い と 景色を刺した
+[01:37.12] 自分で気づいた森の外に踏み出せずに
+[01:45.03] なぜ 歩き出さないの?
+[01:53.38] なぜ 創り上げないの?
+[02:01.27] そうして何も始まらないまま
+[02:05.45] 朽ちて腐り行く人を 屍を 超えて
+[02:13.49] 今 打ち鳴らす衝動の刃が世界を砕く
+[02:21.93] 朝焼けが追いつく前に
+[02:25.77] ぐしゃぐしゃに割れた音で構わない 天樂を
+[02:51.66] 削れたピック 朽ち果てたギター
+[02:55.75] いたずらに僕の扉を暴く
+[02:59.93] 通り過ぎた 秋がすぐそこまで
+[03:04.05] 始めよう 無様な真実を隠せ
+[03:10.55] 
+[03:32.74] なぜ 立ち止まっていたのか
+[03:41.10] なぜ 拒み続けたのか
+[03:49.16] そうして悩み続けた先には
+[03:53.07] 芽生え狂い咲く音を 帰り道 捨てて
+[04:01.11] 今 打ち鳴らす衝動の刃が世界を砕く
+[04:09.78] 目が眩むほど美しい
+[04:12.95] 泡沫に揺れた音で貫いて 天樂を
+[04:26.02] 今 咲き誇る狂色の葉が世界を飾る
+[04:34.43] 朝焼けが追いつく前に
+[04:38.21] その核に触れた声を張り上げて 天樂を
 ```
